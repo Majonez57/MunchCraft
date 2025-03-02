@@ -1,0 +1,13 @@
+name = "Exline's Fishing"
+filename = "exlinefishing-v1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lZw3wXT5/versions/bag7AZgz/exlinefishing-v1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "1dd3e2e1d94d2307380e797df43a9f0347eb6d2eaac8291e464a939889116274dcdd6ff688799bc2ee9d26e206b68cfda18f375e8571f2cbcc094dcb958f23a4"
+
+[update]
+[update.modrinth]
+mod-id = "lZw3wXT5"
+version = "bag7AZgz"
