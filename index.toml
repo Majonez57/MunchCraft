@@ -26,6 +26,11 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "28358fe53c22695b3bf1f93ac2225c46fe3525918b7b993ac36e68a7f0a16fe8"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "b4ef8e1e01e2215bb293087c80a81f89428bf309d049f8bc9cdd6b8c8037c79b"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -101,6 +111,11 @@ hash = "1b4494467fc1fa728ddcfdea4d1774274800025efbf44b48e4178dc2828cbcb2"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "2819618e49ef1b5f986455d8ba1ca6617202f69f943eed281928dfc50c4a22a1"
 metafile = true
@@ -131,6 +146,16 @@ hash = "22ceac3dd118087ae3f8d4254b81afa8a028edb1d9df39869320dfe84b55e319"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "643b6f675134f2b2dcf7601cf895a83dbb9ad56b1433e603ba36c8c1fc6c94bf"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "6cd5dcc7f8be470d2b9be207783db249235cd8536b4cf0f923c86124b387848a"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "d63d6a68c8389cbc48ec3fe181d5b465d8fbd829923618951b00e60c97f78500"
 metafile = true
@@ -156,6 +181,11 @@ hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
 metafile = true
 
 [[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "1452a856b21b8b84e47c2220bc4e6a410ce5330023f890009a3f84c9046c6d3b"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
@@ -168,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "cb0c6726a5e0705d78adf86ea1cd0ce22e08c928d2842e1937bbeec387b19fd8"
+metafile = true
+
+[[files]]
+file = "mods/more-mobs.pw.toml"
+hash = "9e9ebd7c8e93fd92b7ec87cf6ce2152732c10aad6c52f657cf479a5514828931"
 metafile = true
 
 [[files]]
@@ -191,6 +226,11 @@ hash = "dbb83ae72868c1d9a3b4c2a32b7f083348ee427ecffc4b149010f7eca7c310c5"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "41e68f8c0fc0bd77176e0214b60c80e7a7425f05216bea2bc9de7399676d02af"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "389bde529f3226ae80f2d4f6a65327a12527af80180d472cbc26eb5405d359d7"
 metafile = true
@@ -208,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "9afc7aa9f96e76f806891d8ee5d6be77d06a370328323462f689541d0e9c8b02"
 metafile = true
 
 [[files]]
