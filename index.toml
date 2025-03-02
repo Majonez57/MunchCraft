@@ -116,6 +116,11 @@ hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
 metafile = true
 
 [[files]]
+file = "mods/distinguished-potions.pw.toml"
+hash = "6e9c23ecadf0465c97f14a001689a82948ca0ff185c5e47e40472fc7b91ba937"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "2819618e49ef1b5f986455d8ba1ca6617202f69f943eed281928dfc50c4a22a1"
 metafile = true
@@ -211,6 +216,11 @@ hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "a1d3b1b3f1a9ec557cbe63ea70dfc6f7048312ae5f807a7f0ebaa3278dcef594"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "7f5a7cc6134e81f6f9411e353d5f92bee50fba2edfbc738b1fb3732a54cf51ba"
 metafile = true
@@ -228,6 +238,16 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "41e68f8c0fc0bd77176e0214b60c80e7a7425f05216bea2bc9de7399676d02af"
+metafile = true
+
+[[files]]
+file = "mods/serversleep.pw.toml"
+hash = "44f8e191baca62e32f20d70ce0c2c28c18f536dc5514f78b734d2d3a0bfbab67"
+metafile = true
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "d230becbad974464c274e76081ff460f4b66724ef7f590cfc8fe8ff9253f2c43"
 metafile = true
 
 [[files]]
@@ -253,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "9afc7aa9f96e76f806891d8ee5d6be77d06a370328323462f689541d0e9c8b02"
+metafile = true
+
+[[files]]
+file = "mods/torohealth-damage-indicators-updated.pw.toml"
+hash = "ab6abcf57153b3e1d9f227b2602a66b6dd0926edd006348b72d21594f20aac2c"
 metafile = true
 
 [[files]]
