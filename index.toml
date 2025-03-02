@@ -61,6 +61,11 @@ hash = "7c0843319b81c8ad307690378d6f5bc87ef3f8015f687bb6f1a4103cdc9b0845"
 metafile = true
 
 [[files]]
+file = "mods/create-crystal-clear.pw.toml"
+hash = "5d17be4c20a28f9e28a5a22e2e185b6d3131d81c916bc7cd133c3a8fdec4b184"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "7fab5549421a6626beb06245584ebc29c850a1e3b3bfc400665eb167ae35866a"
 metafile = true
