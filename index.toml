@@ -75,41 +75,6 @@ hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
-file = "mods/create-copper-zinc.pw.toml"
-hash = "7c0843319b81c8ad307690378d6f5bc87ef3f8015f687bb6f1a4103cdc9b0845"
-metafile = true
-
-[[files]]
-file = "mods/create-crystal-clear.pw.toml"
-hash = "5d17be4c20a28f9e28a5a22e2e185b6d3131d81c916bc7cd133c3a8fdec4b184"
-metafile = true
-
-[[files]]
-file = "mods/create-deco.pw.toml"
-hash = "7fab5549421a6626beb06245584ebc29c850a1e3b3bfc400665eb167ae35866a"
-metafile = true
-
-[[files]]
-file = "mods/create-goggles.pw.toml"
-hash = "008cc3423e69884e1e34131c7a2727bc8501d02fdeb7941b91ea81cb56cb6ede"
-metafile = true
-
-[[files]]
-file = "mods/create-jetpack.pw.toml"
-hash = "0ff2d89b4f6544be779edc232d5c723bb0d296e89fe66112168027dcd65715c9"
-metafile = true
-
-[[files]]
-file = "mods/create-simple-ore-doubling.pw.toml"
-hash = "55d89b9ec28f18b785cb2a3b7ec9a525e87913bdef0470755850f1dbd0341f55"
-metafile = true
-
-[[files]]
-file = "mods/create-track-map.pw.toml"
-hash = "63f2413981be629df9c32e5549e06cf097078bf8ce0bd8c3bfe16de7ca0a18c2"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "1f6fe88a1e44e31f32d5efb1f359d45b1961c0869b7329f32280177d363a014f"
 metafile = true
@@ -262,11 +227,6 @@ metafile = true
 [[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "d230becbad974464c274e76081ff460f4b66724ef7f590cfc8fe8ff9253f2c43"
-metafile = true
-
-[[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "389bde529f3226ae80f2d4f6a65327a12527af80180d472cbc26eb5405d359d7"
 metafile = true
 
 [[files]]
