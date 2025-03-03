@@ -1,5 +1,7 @@
+packwiz.exe
+
 # Exclude exported CurseForge zip files
 *.zip
-
+.vscode
 # Exclude exported Modrinth modpacks
 *.mrpack

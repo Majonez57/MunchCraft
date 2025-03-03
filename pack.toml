@@ -1,12 +1,12 @@
 name = "MunchCraft"
 author = "Adrian Vecina"
-version = "0.0.1"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ca46aa71192b51e136706246631b414a94ebeb495fb98c181cf358fead7312b8"
+hash = "ddb71269638d2a03947246025c73610793a1f48e6938b711835392f42ddb7ec1"
 
 [versions]
 forge = "47.3.33"
