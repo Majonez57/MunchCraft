@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -75,13 +75,18 @@ hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "78f2bef5055785f575721f45fc38619bccf578c6c1499e477f4a8631efd50392"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "719ad710d4cbd6bef252afe144a3609425f5b63592187448e14bbc3267d4941b"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "1f6fe88a1e44e31f32d5efb1f359d45b1961c0869b7329f32280177d363a014f"
+hash = "75a75968992dd53ea69b9f99be9ac5415ddfce7ce286face8a323969e310939e"
 metafile = true
 
 [[files]]
