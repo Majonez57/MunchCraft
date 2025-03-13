@@ -26,6 +26,11 @@ hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "87f78578b638b65ddfb553c45525271c9afd205a39e5b7db09b20079f2300159"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "28358fe53c22695b3bf1f93ac2225c46fe3525918b7b993ac36e68a7f0a16fe8"
 metafile = true
@@ -57,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "595fd01031be460097435c8fed3777e7736b0daf0321f9237dad75b4cd507a84"
+hash = "47bfb455847e99dd0555d3ced5ce3c48b927a93f06103bd8e6299454a03a490e"
 metafile = true
 
 [[files]]
@@ -76,13 +81,28 @@ hash = "78f2bef5055785f575721f45fc38619bccf578c6c1499e477f4a8631efd50392"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "6344acd50f5c1a54359fb04fd57b22516949d0d81ac025fdc8f8ed17a23d2b3d"
+metafile = true
+
+[[files]]
+file = "mods/create-more-automation.pw.toml"
+hash = "d1b4408c32881114702ac99c519c162b0453227da7d8faff567fb71bb91d67dd"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "719ad710d4cbd6bef252afe144a3609425f5b63592187448e14bbc3267d4941b"
 metafile = true
 
 [[files]]
+file = "mods/create-simple-ore-doubling.pw.toml"
+hash = "55d89b9ec28f18b785cb2a3b7ec9a525e87913bdef0470755850f1dbd0341f55"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "75a75968992dd53ea69b9f99be9ac5415ddfce7ce286face8a323969e310939e"
+hash = "c000d78fc11743ab555fe8acf3824560ad3028a4aacccc7b257fc74b2302d5cd"
 metafile = true
 
 [[files]]
@@ -97,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
+hash = "f68c4aa11159e9eefb3e1df5d67855fbc382b997bbce7e35e142039207245c83"
 metafile = true
 
 [[files]]
@@ -137,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "c02d5558f7c034fbb180e794403ed738b57ee89b2894cd650ae6b16b661ac074"
+hash = "52cbf31840eef5ec3a4dd81ab04ef33a518e4f0ed89fad11c965da0374a7a6d6"
 metafile = true
 
 [[files]]
@@ -166,8 +186,13 @@ hash = "0f83be0761e0014686517c20f2850242152dd7a26e87088d869028bc40a8a125"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "ebac949a2fff95c91e87a92e5f5e91daf144c789e5765f3c4d80f096b366488e"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
-hash = "e1b7575ede41282245f402976e29af128960d7dd4d34827c8068b06e3fdb30a6"
+hash = "66a8d44f5ef66075063ced8b54312a46bb8a256090d36df877b8ff58de9d16be"
 metafile = true
 
 [[files]]
@@ -193,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "9a5e498a9c596fb0bfbab74173aa854257466e8c538d15c1966ce268b3267575"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
@@ -237,12 +267,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "dbb83ae72868c1d9a3b4c2a32b7f083348ee427ecffc4b149010f7eca7c310c5"
+hash = "a764137af8157a15bce180d539c4a7e9e918aaff0e739dc8bb40aeb805769d5d"
 metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "41e68f8c0fc0bd77176e0214b60c80e7a7425f05216bea2bc9de7399676d02af"
+hash = "30c72d58285b287ffea76434a8699a75521ee8777abeeb80f717d4857f61601a"
 metafile = true
 
 [[files]]
@@ -253,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "d230becbad974464c274e76081ff460f4b66724ef7f590cfc8fe8ff9253f2c43"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "051a8937ed53267faa86fb53695f6e84a4fdf66d905cb9f3873e5498a6e66ab5"
 metafile = true
 
 [[files]]
@@ -286,6 +321,11 @@ hash = "ab6abcf57153b3e1d9f227b2602a66b6dd0926edd006348b72d21594f20aac2c"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "6a249583abaec5492b693b8a19e1b42abb338af6517f92004c86471df57ddfc0"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "16e2c84951ba32efac8703ccb7b36631b70cb514d402fa8fb4f89031f2a63a58"
 metafile = true
@@ -297,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "614d4145b4c8ce726c8f950dd15a86ccc847157d8fc22e92ae34c40dcc68ba13"
+hash = "383bf3bfce6ea61fcf367198b824f3ace852f138d50ed7a0b14feb3ed01331ef"
 metafile = true
 
 [[files]]
