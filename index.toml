@@ -46,6 +46,11 @@ hash = "28358fe53c22695b3bf1f93ac2225c46fe3525918b7b993ac36e68a7f0a16fe8"
 metafile = true
 
 [[files]]
+file = "mods/bjornlib.pw.toml"
+hash = "990429de1b8f5a1e031a324141539096e803fbc304ff8c989e595502cc22f8e7"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
@@ -96,13 +101,33 @@ hash = "0b69f772db857977d0e70bad04d4a8112f0963074ca07258efb44d2d3e5f4578"
 metafile = true
 
 [[files]]
+file = "mods/create-cheese.pw.toml"
+hash = "ae66545b2354ccffd4c8844126fbbee5bce1eb079f194959d6675f79e8103cd6"
+metafile = true
+
+[[files]]
+file = "mods/create-chimneys.pw.toml"
+hash = "43a2f29196fb84fceb8f737013b94cf967b4d6064c58194f7268a72ea3bf2c43"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "4852a9af0dd34136c85a20a9729b554bbb8afbf81f8bfdbb52b8a8cae898b1e6"
 metafile = true
 
 [[files]]
+file = "mods/create-copper-zinc.pw.toml"
+hash = "6f2bf59b64271ec580098c6e959fc1fc8641fcf72992ecfaaaff72dccdcdfb2d"
+metafile = true
+
+[[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "f8bf78c6abb10070eadd518e78bd712823010a817e174a5d3e8f4ae481e29b78"
+metafile = true
+
+[[files]]
+file = "mods/create-drill-drain.pw.toml"
+hash = "788a3eb7fe375e9d89d4499b0d8e4c3d86d55de7bc2a882decadd33d103675b0"
 metafile = true
 
 [[files]]
@@ -113,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "af34be85ba49c0ab5cfa982627c6f196c395926dcadfb495060ac5aa56ed7daf"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "b017d21c9632149ba70702bfd9d39320b9a2b3715236f3e9e603e3617eacddcb"
 metafile = true
 
 [[files]]
@@ -132,7 +162,12 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
+hash = "26b5eb49763ba8b3078ea93222f2b73e86ad4b3b2030a1b7628aab37b9061ae2"
+metafile = true
+
+[[files]]
+file = "mods/create_factory_logistics.pw.toml"
+hash = "a0b872ba388d5e4bbac4c69f823f91c0bdcf9967554df78053c806f19c6620b4"
 metafile = true
 
 [[files]]
@@ -183,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/exlines-fishing.pw.toml"
 hash = "f941371ab641431df569bdc195cb3b6924e95a76e5c5d93d3122fed84ed322a2"
+metafile = true
+
+[[files]]
+file = "mods/extra-additions.pw.toml"
+hash = "c762dcb8efa13a1df744db88e53feff053720dd8a8bb180e00bb42a272a54ded"
 metafile = true
 
 [[files]]
@@ -336,8 +376,18 @@ hash = "667dacb1193a887bc068a3c819839e06c82959d2ba61c85736296420ed334579"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "0fd5b27087ffe34d22dbdbdec6cae53f0a58b839ab8e4c423a5255f2b406e27b"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
+hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
 metafile = true
 
 [[files]]
@@ -352,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "39ccb2996e1044019432e2b484fcd3c9add4be07f39c369db636f48df39bc902"
+hash = "b2e7c90635d3d31af23b5caca1342ce2200add934c33d992ec4729efc9e6faab"
 metafile = true
 
 [[files]]
@@ -366,13 +416,18 @@ hash = "81153277591961fa6ba18504bf08924eea5a8e0679f590874648c2dfa7e9d882"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "8b546b8dcedf2fe9ce13334a95644be876817efa25943b67250d29528d4659ea"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "c4184a664c2d9f0f06d1d46c1f9afca32e1ff4725b5704f1abf8fdbed1df0f61"
+hash = "7a722ab83422df74fafc04241d851410dc707fee97b5e1a1547a37dfa9916db5"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "77b127ffe5654cc8c70e158e5a466763781669736407ff55b17d96e008a3d9fd"
+hash = "b5f8a4985e1cdfdeb0cf18d94964354cbcba4546cdf63bd8b7cb66442f3aba3d"
 metafile = true
 
 [[files]]
@@ -428,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "16e2c84951ba32efac8703ccb7b36631b70cb514d402fa8fb4f89031f2a63a58"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "1a240191aee49122c797f6c2e564e738bc9549d6ac21e36bcd9b99c203834212"
 metafile = true
 
 [[files]]
