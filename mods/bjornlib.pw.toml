@@ -1,0 +1,13 @@
+name = "BjornLib"
+filename = "bjornlib-forge-1.0.19.5-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b5ce1932ffab54c5d6b99cc67473cc93bf6cd0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5685369
+project-id = 920448
